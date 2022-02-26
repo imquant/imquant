@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imquant
-- 👀 I’m interested in crypto/mechanism-design/distributed-systems
+- 👀 I’m interested in CS/crypto/mechanism-design/distributed-systems
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on cool stuff!
 - 📫 How to reach me : imaginaryquant@protonmail.com
